@@ -1,11 +1,17 @@
-<h1 align="center">Hi 👋, I'm João Vitor Sonoda Rezende</h1>
+<<h1 align="center">Hi 👋, I'm João Vitor Sonoda Rezende</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sonada2002&label=Profile%20views&color=0e75b6&style=flat" alt="sonada2002" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonada2002" alt="sonada2002" /></a> </p>
 
 - 🔭 I’m currently working on **TCC**
 
+- 🌱 I’m currently learning **WebDesign**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@game_jv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@game_jv" height="30" width="40" /></a>
+<a href="https://twitter.com/@sonada_jv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sonada_jv" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jvsrezende" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jvsrezende" height="30" width="40" /></a>
 <a href="https://fb.com/jv srezende" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jv srezende" height="30" width="40" /></a>
 <a href="https://instagram.com/jvsrezende" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jvsrezende" height="30" width="40" /></a>
@@ -17,4 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonada2002&show_icons=true&locale=en&layout=compact" alt="sonada2002" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonada2002&show_icons=true&locale=en" alt="sonada2002" /></p>
-
